@@ -1,7 +1,5 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
+
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
